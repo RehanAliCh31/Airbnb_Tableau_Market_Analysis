@@ -2,6 +2,9 @@
 
 This repository features a Tableau dashboard that analyzes Airbnb listings, rental prices, location patterns, and revenue trends. It showcases how Tableau can turn listing data into clear, interactive business insights.
 
+### Live Dashboard
+[View the full dashboard](https://public.tableau.com/app/profile/rehan.ali.ch/viz/RehanAliChsAirbnbFullProjectinTableau/Dashboard2?publish=yes)
+
 ## Tableau Dashboard
 
 ### Overview
@@ -18,4 +21,3 @@ Open the Tableau workbook or use the Tableau Public dashboard link below to expl
 
 ### Dashboard 
 ![Airbnb Project in Tableau](tableau.png)
-[View the full dashboard](https://public.tableau.com/app/profile/rehan.ali.ch/viz/RehanAliChsAirbnbFullProjectinTableau/Dashboard2?publish=yes)
