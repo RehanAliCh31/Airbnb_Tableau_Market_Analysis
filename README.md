@@ -17,5 +17,5 @@ This Tableau project by Rehan Ali provides insights into Airbnb listings, focusi
 Open the Tableau workbook or use the Tableau Public dashboard link below to explore Airbnb market trends and identify pricing, location, and revenue opportunities.
 
 ### Dashboard 
-![Airbnb Project in Tableau](/Tableau/tableau.png)
+![Airbnb Project in Tableau](tableau.png)
 [View the full dashboard](https://public.tableau.com/app/profile/rehan.ali.ch/viz/RehanAliChsAirbnbFullProjectinTableau/Dashboard2?publish=yes)
